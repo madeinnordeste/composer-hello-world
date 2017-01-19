@@ -1,0 +1,7 @@
+{
+    "name": "madeinnordeste/composer-hello-world",
+    "description": "A composer package to learn create composer packages",
+    "type": "library",
+    "authors": [    ],
+    "require": {}
+}
