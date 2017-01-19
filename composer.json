@@ -10,5 +10,5 @@
             "email": "email@host.com"
         }
     ],
-    "minimum-stability": "alpha"
+    "minimum-stability": "stable"
 }
