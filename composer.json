@@ -3,5 +3,12 @@
     "description": "A composer package to learn create composer packages",
     "type": "library",
     "authors": [    ],
-    "require": {}
+    "require": {},
+    "authors": [
+        {
+            "name": "luiz alberto",
+            "email": "email@host.com"
+        }
+    ],
+    "minimum-stability": "alpha"
 }
